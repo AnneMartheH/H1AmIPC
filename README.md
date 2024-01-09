@@ -15,6 +15,9 @@ To run the code with flags type this in the interactive session:
 
 In the commands described above, The filename is the name of the c file. And the compiledfile, is what you chose to call the comilated file.
 
+task1.c containes the task Array addition and vectorization
+task2.c containes the task Matrix copy via block reverse ordering
+
 Task 1, was runned on this node:
 ![image](https://github.com/AnneMartheH/H1AmIPC/assets/99717256/3d12db78-73f3-4a7a-a8f9-d664168bcb4a)
 
